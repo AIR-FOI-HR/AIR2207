@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269906036137",
+    "project_id": "event-scheduler-3ba68",
+    "storage_bucket": "event-scheduler-3ba68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269906036137:android:1db804458fcc70cbf4f0b8",
+        "android_client_info": {
+          "package_name": "hr.foi.air.eventscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269906036137-qg5ru6d7odn95bbb11ef89lcd3659qlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmkYTwwa_7iM4qk63Amk22PEoyQLdAE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269906036137-qg5ru6d7odn95bbb11ef89lcd3659qlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
