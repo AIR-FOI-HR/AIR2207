@@ -18,6 +18,8 @@
        android:layout_alignParentBottom="true"
         android:background="@android:color/holo_red_light"
         app:menu="@menu/bottom_nav"
+        app:itemTextColor="@drawable/selector"
+        app:itemIconTint="@drawable/selector"
         />
 
 </RelativeLayout>
